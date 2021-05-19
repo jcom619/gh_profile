@@ -1,0 +1,17 @@
+.footer {
+  bottom: 0;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  position: fixed;
+  text-align: center;
+  font-size: 1.1em;
+  background: #37372d;
+  width: 100%;
+  -webkit-box-shadow: 0 0 50px -5px black, inset 0 0 30px 1px #fefefe;
+          box-shadow: 0 0 50px -5px black, inset 0 0 30px 1px #fefefe;
+  text-decoration: none;
+  padding: 0.5em; }
+
+a {
+  color: white; }
