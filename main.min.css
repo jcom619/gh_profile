@@ -9,7 +9,6 @@
   font-family: "Roboto",skia; }
 
 body {
-  white-space: nowrap;
   background: rgba(15, 23, 8, 0.564);
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Doppler_spiral.svg/1200px-Doppler_spiral.svg.png");
   background-repeat: no-repeat;
